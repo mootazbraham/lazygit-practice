@@ -1,1 +1,3 @@
 # lazygit-practice
+
+hello
